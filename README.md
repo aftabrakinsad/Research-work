@@ -1,5 +1,5 @@
 # Tomato Leaf Disease Deteection
-Research Work: Tomato Leaf Disease Deteection
+Research Work: Tomato Leaf Disease Detection
 <table border="1">
   <tr>
     <th>Paper Title</th>
